@@ -17,10 +17,10 @@ Atualmente, trabalho nos protótipos do Mappia e do Aedes Data Lab.
 | Projeto | Conteúdo | Etapa |
 | :--- | :--- | :--- |
 | [Aulas de desenvolvimento web](https://github.com/joaovitorregis/Aula-de-Desenvolvimento-web) | PDFs, exemplos e registros de quatro encontros de HTML, CSS e JavaScript. | Materiais publicados |
-| [Automação do ônibus universitário](https://github.com/joaovitorregis/Automacao-WhatsApp-Onibus) | Automação de listas no WhatsApp com Node.js, executada em um celular Android com Termux. | Implantada no Android |
+| [A10s — Servidor pessoal Android](https://github.com/joaovitorregis/A10s-Servidor-Pessoal) | Servidor pessoal em um Galaxy A10s com Termux, painel de acompanhamento e a Rota, automação das listas do transporte universitário no WhatsApp. | Uso pessoal no Android |
 | [Mappia](https://github.com/joaovitorregis/Mappia) | Telas no Figma, PRD e Product Backlog para uma plataforma de registro de problemas do bairro. | Protótipo |
-| [Aedes Data Lab](https://github.com/joaovitorregis/Aedes-Data-Lab) | Wireframes e fluxos de uma plataforma voltada à prevenção da dengue. | Wireframes |
+| [Aedes Data Lab](https://github.com/joaovitorregis/Aedes-Data-Lab) | Evolução do Repecol, com wireframes e fluxos para uma plataforma de prevenção da dengue. | Wireframes |
 
 ## Atividades acadêmicas
 
-Meus exercícios e atividades de Python estão na pasta [João-Vitor (DISCIPLINACCP2)](https://github.com/profanacgpb/DISCIPLINACCP2/tree/a5e41c529efac07722336645840787e29e7a89bd/Jo%C3%A3o-Vitor).
+Meus exercícios e atividades de Python estão na pasta [João-Vitor (DISCIPLINACCP2)](https://github.com/profanacgpb/DISCIPLINACCP2/tree/aluno%2FJo%C3%A3o-Vitor/Jo%C3%A3o-Vitor).
